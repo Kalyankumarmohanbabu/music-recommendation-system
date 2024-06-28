@@ -34,6 +34,3 @@ Ensure the following pickle files are placed in the project directory:
 3.Usage
 Run the Streamlit app:
 streamlit run app.py
-
-5.License
-This project is licensed under the MIT License.
